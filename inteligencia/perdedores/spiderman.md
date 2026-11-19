@@ -16,3 +16,8 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 
 - Tía May
 - Mary Jane Watson
+
+## Poderes
+
+- Fuerza sobrehumana
+- Agigilidad
