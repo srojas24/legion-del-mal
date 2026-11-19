@@ -11,3 +11,8 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 
 - Spider-Man
 - Spider-Man 2
+
+## Conocidos
+
+- Tía May
+- Mary Jane Watson
