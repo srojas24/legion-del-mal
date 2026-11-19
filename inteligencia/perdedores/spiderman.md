@@ -21,3 +21,8 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 
 - Fuerza sobrehumana
 - Agigilidad
+
+## Debilidades
+
+- Sus seres queridos
+- Cloruro de etilo
