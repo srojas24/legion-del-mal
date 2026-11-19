@@ -6,3 +6,23 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 
 - Doctor Octopus
 - Green Goblin
+
+## Películas
+
+- Spider-Man
+- Spider-Man 2
+
+## Conocidos
+
+- Tía May
+- Mary Jane Watson
+
+## Poderes
+
+- Fuerza sobrehumana
+- Agigilidad
+
+## Debilidades
+
+- Sus seres queridos
+- Cloruro de etilo
