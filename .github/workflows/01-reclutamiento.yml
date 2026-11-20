@@ -35,4 +35,4 @@ jobs:
             - name: Reconocimiento del terreno
               run: |
                 echo "Reconocimiento del terreno"
-                ls /s
+                ls /
